@@ -6,7 +6,7 @@ Follow the steps below to set up and run this project on your local machine:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/yourproject.git](https://github.com/Cloudmash333/simple_mcp.git
+git clone https://github.com/Cloudmash333/simple_mcp.git
 cd simple_mcp
 ```
 2. Create a virtual environment
