@@ -1,6 +1,7 @@
 # simple_mcp
-A simple mcp server which performs addition operation
-📦 Project Setup Instructions
+A simple mcp server which performs addition operation.
+
+Project Setup Instructions
 Follow the steps below to set up and run this project on your local machine:
 
 1. Clone the repository
